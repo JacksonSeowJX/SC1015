@@ -7,6 +7,11 @@ SC1015 Project - Premier League Dataset
 ## Problem Statement
 In the rapidly growing field of sports analytics, predictive modeling for football betting remains a domain of keen interest. The aim of this project is to analyze Premier League data to uncover insights that could inform betting strategies. Through comprehensive data cleaning, exploratory data analysis (EDA), and the application of various machine learning models, this project endeavors to provide a detailed analysis conducive to informed football betting.
 
+## Datasets
+The datasets is taken from: 
+- https://www.kaggle.com/datasets/zaeemnalla/premier-league/data?select=stats.csv
+- https://sports-statistics.com/sports-data/soccer-datasets/
+
 ## Data Cleaning
 The initial phase of the project involves rigorous data cleaning to ensure the quality and integrity of the datasets. This process includes:
 
