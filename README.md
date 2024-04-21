@@ -33,12 +33,11 @@ Assessment of model performance through accuracy rates and confusion matrix anal
 ## Anomaly Detection:
 Application of Isolation Forest to detect outlier seasons that deviate significantly from a team’s typical performance.
 Linking anomalies to notable events such as managerial changes or other off-pitch factors that may influence on-pitch results.
-Insights
 
 ## Project Insights:
-
 The half-time score is a significant predictor of the full-time result.
 Challenges in accurately predicting draws, indicating potential for further feature engineering.
 Anomalies in team performance aligned with key events like managerial changes, providing a qualitative overlay to the quantitative analysis.
-Conclusion
+
+## Conclusion
 The analysis not only provides a predictive framework for football betting but also highlights the importance of integrating qualitative insights into quantitative models. The project emphasizes the potential utility of halftime statistics and pre-match odds as predictive features and opens avenues for future research in enhancing model robustness and accuracy.
