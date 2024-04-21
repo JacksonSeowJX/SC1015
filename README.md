@@ -2,7 +2,8 @@
 SC1015 Project - Premier League Dataset
 
 
-Premier League Football Betting Analysis
+# Premier League Football Betting Analysis
+
 Problem Statement
 In the rapidly growing field of sports analytics, predictive modeling for football betting remains a domain of keen interest. The aim of this project is to analyze Premier League data to uncover insights that could inform betting strategies. Through comprehensive data cleaning, exploratory data analysis (EDA), and the application of various machine learning models, this project endeavors to provide a detailed analysis conducive to informed football betting.
 
