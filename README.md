@@ -12,7 +12,7 @@ The datasets are taken from:
 - https://www.kaggle.com/datasets/zaeemnalla/premier-league/data?select=stats.csv
 - https://sports-statistics.com/sports-data/soccer-datasets/
 
-Kaggle provides seasonal statistics from 2006-2018. Includes every club's total points, wins/losses, shots on target etc.
+Kaggle provides seasonal statistics from 2006-2018. Includes every club's total points, wins/losses, shots on target etc. <br>
 Sports-statistics provides match statistics from 2016-2019. Includes fulltime and halftime statistics with betting odds.
 
 ## Data Cleaning
