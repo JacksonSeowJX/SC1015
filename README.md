@@ -21,21 +21,21 @@ Using correlation matrices to identify potential predictive relationships betwee
 Machine Learning Models
 Three primary machine learning approaches are employed:
 
-# Multivariate Linear Regression:
+## Multivariate Linear Regression:
 Utilized to forecast end-of-season points based on various in-match statistics.
 Interpretation of regression coefficients to quantify the impact of different features on the total points accrued by a team.
 
-# Classification:
+## Classification:
 Prediction of Full-Time Results (FTR) using halftime data.
 Employment of decision trees to discern the features that most significantly influence match outcomes.
 Assessment of model performance through accuracy rates and confusion matrix analysis.
 
-# Anomaly Detection:
+## Anomaly Detection:
 Application of Isolation Forest to detect outlier seasons that deviate significantly from a team’s typical performance.
 Linking anomalies to notable events such as managerial changes or other off-pitch factors that may influence on-pitch results.
 Insights
 
-# Project Insights:
+## Project Insights:
 
 The half-time score is a significant predictor of the full-time result.
 Challenges in accurately predicting draws, indicating potential for further feature engineering.
