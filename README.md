@@ -4,10 +4,10 @@ SC1015 Project - Premier League Dataset
 
 # Premier League Football Betting Analysis
 
-## Problem Statement:
+## Problem Statement
 In the rapidly growing field of sports analytics, predictive modeling for football betting remains a domain of keen interest. The aim of this project is to analyze Premier League data to uncover insights that could inform betting strategies. Through comprehensive data cleaning, exploratory data analysis (EDA), and the application of various machine learning models, this project endeavors to provide a detailed analysis conducive to informed football betting.
 
-## Data Cleaning:
+## Data Cleaning
 The initial phase of the project involves rigorous data cleaning to ensure the quality and integrity of the datasets. This process includes:
 
 Handling missing values by imputation or removal.
@@ -21,20 +21,20 @@ Using correlation matrices to identify potential predictive relationships betwee
 Machine Learning Models
 Three primary machine learning approaches are employed:
 
-## Multivariate Linear Regression:
+## Multivariate Linear Regression
 Utilized to forecast end-of-season points based on various in-match statistics.
 Interpretation of regression coefficients to quantify the impact of different features on the total points accrued by a team.
 
-## Classification:
+## Classification
 Prediction of Full-Time Results (FTR) using halftime data.
 Employment of decision trees to discern the features that most significantly influence match outcomes.
 Assessment of model performance through accuracy rates and confusion matrix analysis.
 
-## Anomaly Detection:
+## Anomaly Detection
 Application of Isolation Forest to detect outlier seasons that deviate significantly from a team’s typical performance.
 Linking anomalies to notable events such as managerial changes or other off-pitch factors that may influence on-pitch results.
 
-## Project Insights:
+## Project Insights
 The half-time score is a significant predictor of the full-time result.
 Challenges in accurately predicting draws, indicating potential for further feature engineering.
 Anomalies in team performance aligned with key events like managerial changes, providing a qualitative overlay to the quantitative analysis.
