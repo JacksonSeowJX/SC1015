@@ -49,9 +49,11 @@ Linking anomalies to notable events such as managerial changes or other off-pitc
 The half-time score is a significant predictor of the full-time result.
 Challenges in accurately predicting draws, indicating potential for further feature engineering.
 Anomalies in team performance aligned with key events like managerial changes, providing a qualitative overlay to the quantitative analysis.
-| Column 1 | Column 2 | Column 3 |
-|----------|----------|----------|
-| Row 1 er | Row 1 er | Row 1 er |
+| Machine Learning Models | Insights | Accuracy (Train) | Accuracy (Test) |
+|:-----------------------:|:--------:|:----------------:|:---------------:|
+| Linear Regression | This multivariate linear regression analysis investigates the ability to predict total football points across various seasons based on game metrics. The model consistently demonstrates high predictive accuracy, as indicated by R² values consistently above 0.90 and low Mean Squared Error (MSE) rates across all datasets, confirming its robustness in both fitting and predicting data. Analysis of coefficients reveals that "goals" and "clean sheets" significantly boost total points, while "goals conceded" detrimentally impacts them. In contrast, "total scoring attempts" and "corners taken" have a more ambiguous influence, suggesting a potential complexity in their relationship with total points that may require deeper exploration. Overall, the model's reliable performance across different seasonal splits, combined with its consistent alignment with the line of perfect prediction in graphical representations, underscores its effectiveness in forecasting team performance based on historical data.| 90,90,90 | 90,90,90 |
+| Classification | wewerwer|
+| Anomaly Detection | wewerwer|
 
 
 ## Conclusion
