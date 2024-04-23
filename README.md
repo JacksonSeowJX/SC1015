@@ -1,6 +1,9 @@
 # SC1015 
 SC1015 Project - Premier League Dataset
 
+## Contributions
+All 3 members contributed equally to the project - Data Cleaning, Add new columns, Multivariate Linear Regression, Gradient Boosting Classification, Anamoly Detection (Isolation Forest), Analysis and Conclusion
+
 
 # Premier League Football Betting Analysis
 
